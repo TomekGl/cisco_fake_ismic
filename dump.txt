@@ -1,0 +1,491 @@
+Start
+Address write: 7E
+ACK
+Data write: 04
+ACK
+Start repeat
+Address read: 7E
+ACK
+Data read: 44
+ACK
+Data read: 65
+ACK
+Data read: 66
+ACK
+Data read: 61
+ACK
+Data read: 75
+ACK
+Data read: 6C
+ACK
+Data read: 74
+ACK
+Data read: 20
+ACK
+Data read: 43
+ACK
+Data read: 68
+ACK
+Data read: 61
+ACK
+Data read: 73
+ACK
+Data read: 73
+ACK
+Data read: 69
+ACK
+Data read: 73
+ACK
+Data read: 20
+ACK
+Data read: 4E
+ACK
+Data read: 61
+ACK
+Data read: 6D
+ACK
+Data read: 65
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: AC
+NACK
+Stop
+Start
+Address write: 7E
+ACK
+Data write: 03
+ACK
+Start repeat
+Address read: 7E
+ACK
+Data read: 44
+ACK
+Data read: 65
+ACK
+Data read: 66
+ACK
+Data read: 61
+ACK
+Data read: 75
+ACK
+Data read: 6C
+ACK
+Data read: 74
+ACK
+Data read: 20
+ACK
+Data read: 52
+ACK
+Data read: 61
+ACK
+Data read: 63
+ACK
+Data read: 6B
+ACK
+Data read: 20
+ACK
+Data read: 4E
+ACK
+Data read: 61
+ACK
+Data read: 6D
+ACK
+Data read: 65
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: F9
+NACK
+Stop
+Start
+Address write: 7E
+ACK
+Data write: 01
+ACK
+Start repeat
+Address read: 7E
+ACK
+Data read: 53
+ACK
+Data read: FF
+ACK
+Data read: FF
+ACK
+Data read: DA
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: FF
+ACK
+Data read: 03
+ACK
+Data read: FF
+ACK
+Data read: FF
+ACK
+Data read: D5
+NACK
+Stop
+Start
+Address write: 48
+ACK
+Data write: 00
+ACK
+Start repeat
+Address read: 48
+ACK
+Data read: 2E
+ACK
+Data read: 80
+NACK
+Stop
+Start
+Address write: 7E
+ACK
+Data write: 04
+ACK
+Start repeat
+Address read: 7E
+ACK
+Data read: 44
+ACK
+Data read: 65
+ACK
+Data read: 66
+ACK
+Data read: 61
+ACK
+Data read: 75
+ACK
+Data read: 6C
+ACK
+Data read: 74
+ACK
+Data read: 20
+ACK
+Data read: 43
+ACK
+Data read: 68
+ACK
+Data read: 61
+ACK
+Data read: 73
+ACK
+Data read: 73
+ACK
+Data read: 69
+ACK
+Data read: 73
+ACK
+Data read: 20
+ACK
+Data read: 4E
+ACK
+Data read: 61
+ACK
+Data read: 6D
+ACK
+Data read: 65
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: AC
+NACK
+Stop
+Start
+Address write: 7E
+ACK
+Data write: 03
+ACK
+Start repeat
+Address read: 7E
+ACK
+Data read: 44
+ACK
+Data read: 65
+ACK
+Data read: 66
+ACK
+Data read: 61
+ACK
+Data read: 75
+ACK
+Data read: 6C
+ACK
+Data read: 74
+ACK
+Data read: 20
+ACK
+Data read: 52
+ACK
+Data read: 61
+ACK
+Data read: 63
+ACK
+Data read: 6B
+ACK
+Data read: 20
+ACK
+Data read: 4E
+ACK
+Data read: 61
+ACK
+Data read: 6D
+ACK
+Data read: 65
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: F9
+NACK
+Stop
+Start
+Address write: 7E
+ACK
+Data write: 01
+ACK
+Start repeat
+Address read: 7E
+ACK
+Data read: 53
+ACK
+Data read: FF
+ACK
+Data read: FF
+ACK
+Data read: DA
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: FF
+ACK
+Data read: 03
+ACK
+Data read: FF
+ACK
+Data read: FF
+ACK
+Data read: D5
+NACK
+Stop
+Start
+Address write: 48
+ACK
+Data write: 00
+ACK
+Start repeat
+Address read: 48
+ACK
+Data read: 30
+ACK
+Data read: 00
+NACK
+Stop
+Start
+Address write: 7E
+ACK
+Data write: 01
+ACK
+Start repeat
+Address read: 7E
+ACK
+Data read: 53
+ACK
+Data read: FF
+ACK
+Data read: FF
+ACK
+Data read: DA
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: FF
+ACK
+Data read: 03
+ACK
+Data read: FF
+ACK
+Data read: FF
+ACK
+Data read: D5
+NACK
+Stop
+Start
+Address write: 48
+ACK
+Data write: 00
+ACK
+Start repeat
+Address read: 48
+ACK
+Data read: 31
+ACK
+Data read: 00
+NACK
+Stop
+Start
+Address write: 7E
+ACK
+Data write: 01
+ACK
+Start repeat
+Address read: 7E
+ACK
+Data read: 53
+ACK
+Data read: FF
+ACK
+Data read: FF
+ACK
+Data read: DA
+ACK
+Data read: 00
+ACK
+Data read: 00
+ACK
+Data read: FF
+ACK
+Data read: 03
+ACK
+Data read: FF
+ACK
+Data read: FF
+ACK
+Data read: D5
+NACK
+Stop
+Start
+Address write: 7E
+ACK
+Data write: 01
+ACK
+Data write: 53
+ACK
+Data write: FF
+ACK
+Data write: FF
+ACK
+Data write: DA
+ACK
+Data write: 02
+ACK
+Data write: 00
+ACK
+Data write: FF
+ACK
+Data write: 03
+ACK
+Data write: FF
+ACK
+Data write: FF
+ACK
+Data write: D2
+ACK
+Stop
